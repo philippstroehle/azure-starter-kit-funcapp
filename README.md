@@ -1,0 +1,1 @@
+Please take a look at [bcx19-buildings/azure-starter-kit](https://github.com/bcx19-buildings/azure-starter-kit) for documentation.

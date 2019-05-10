@@ -1,0 +1,13 @@
+{
+  "bindings": [
+    {
+      "type": "eventHubTrigger",
+      "name": "eventHubMessages",
+      "direction": "in",
+      "eventHubName": "cb-bcx-adt-topology-event-hub",
+      "connection": "cb-bcx-event-hubs",
+      "cardinality": "many",
+      "consumerGroup": "bcx-team-001-df"
+    }
+  ]
+}
